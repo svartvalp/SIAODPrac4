@@ -1,0 +1,9 @@
+#mapid { 
+    height: 500px;
+    width: 500px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+}
